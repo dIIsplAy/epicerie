@@ -1,0 +1,13 @@
+.rouge{
+    color: red;
+}
+
+.maCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.compteur{
+    width: 30px;
+}
